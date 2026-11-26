@@ -1,4 +1,4 @@
-package br.com.luan.url_shortener;
+package br.com.luan.urlshortener;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

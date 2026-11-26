@@ -1,4 +1,4 @@
-package br.com.luan.url_shortener;
+package br.com.luan.urlshortener;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
