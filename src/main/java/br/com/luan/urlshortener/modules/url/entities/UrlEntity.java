@@ -1,4 +1,4 @@
-package br.com.luan.urlshortener.modules.entities;
+package br.com.luan.urlshortener.modules.url.entities;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
